@@ -1,0 +1,17 @@
+# Ignorar pastas de cache Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais comuns
+venv/
+env/
+.venv/
+atividade/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de editor
+.vscode/
+*.swp
